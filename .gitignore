@@ -1,3 +1,4 @@
-Web/bin
-Web/obj
-Web/.vs
+bin
+obj
+.vs
+packages
